@@ -1,0 +1,20 @@
+{
+  "name": "elephantexcersise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run dev index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoRoe/Connect-your-NodeJS-application-to-PostgreSQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoRoe/Connect-your-NodeJS-application-to-PostgreSQL/issues"
+  },
+  "homepage": "https://github.com/NicoRoe/Connect-your-NodeJS-application-to-PostgreSQL#readme"
+}
